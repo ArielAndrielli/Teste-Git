@@ -8,6 +8,7 @@ namespace Exemplo_Git
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Opa, eae!");
+            Console.WriteLine("How Are Your?");
 
             Console.ReadLine();
         }
